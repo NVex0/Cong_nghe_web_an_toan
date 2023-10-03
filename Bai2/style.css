@@ -1,0 +1,50 @@
+
+
+table {
+    width: 100%;
+}
+
+.logo_diem {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.school{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.tieungu{
+    margin-top: 20px;
+    margin-left: 100px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 10%;
+  }
+
+th, td {
+    border: 1px solid black;
+    padding: 2px;
+    text-align: center;
+}
+
+th {
+    background-color: #a69c9c;
+}
+
+.body {
+    margin: 0;
+    padding: 0 350px;
+    background-color: #888888 ;
+}
