@@ -8,4 +8,4 @@ Thế nên vuln của nó nằm ở đây, truyền thử payload vào:
 
 ![image](https://github.com/NVex0/Cong_nghe_web_an_toan/assets/113530029/c9ba1a76-cde9-48f3-886e-7d78c0c0ff4f)
 
-Vì nó ghi cố định vào bảng nên ta truyền thêm payload vào nó vẫn thực thi tiếp :v.
+Vì nó ghi cố định vào bảng nên ta truyền thêm payload vào thì nó sẽ thực thi hàng loạt :v.
